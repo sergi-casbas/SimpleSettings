@@ -1,0 +1,2 @@
+# SimpleSettings
+Simple settings manager
